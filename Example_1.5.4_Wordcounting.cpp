@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-#definde IN 1
-#definde ON 0
+#define IN 1
+#define ON 0
 
 int main(){
 	int c, nl, nw, nc , state;
